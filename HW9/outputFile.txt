@@ -1,0 +1,10 @@
+This is what was read from the input file: inputFile.txt
+
+Thui Bhu
+Ariana B. Smith
+Emily Gonzales
+Jennifer L
+Maria Jones
+Bill Gates
+Escobar Morris
+Anne Latner

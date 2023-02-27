@@ -1,0 +1,28 @@
+### C ###
+# Executables
+main
+
+# Debug Files
+*.dSYM/
+
+
+
+### VS Code ###
+# General 
+.vscode
+
+
+
+### Mac OS ###
+# General
+.DS_Store
+
+
+
+### Project Specific ###
+# Submission Files
+*Submission*
+
+# Quiz Files
+Quiz
+
